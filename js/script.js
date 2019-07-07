@@ -15,7 +15,7 @@ else if (randomNumber == 3){
 }
 
 
-let playerInput = prompt('Wybierz swój ruch! 1: kamień,<br> 2: papier, 3: nożyce.');
+let playerInput = prompt('Wybierz swój ruch! 1: kamień, 2: papier, 3: nożyce.');
 
 console.log('Gracz wpisał: ' + playerInput);
 
