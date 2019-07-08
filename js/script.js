@@ -11,7 +11,6 @@ if (randomNumber == 1) {
 } else if (randomNumber == 3) {
     computerMove = 'nożyce';
 
-
 let playerInput = prompt('Wybierz swój ruch! 1: kamień, 2: papier, 3: nożyce.');
 
 console.log('Gracz wpisał: ' + playerInput);
